@@ -15,3 +15,18 @@
 - Allows the user to copy the generated text to the clipboard using a voice command.
 - Provides the functionality to clear the clipboard.
 
+<br>
+
+## Technologies Used
+
+This project is built using the following technologies:
+
+- **React:** The user interface is developed using React, a popular JavaScript library for building dynamic and interactive web applications.
+
+- **JSX:** JSX is a syntax extension for JavaScript that is commonly used with React to describe the structure and appearance of user interfaces.
+
+- **SCSS:** SCSS (Sassy CSS) is a preprocessor for CSS that offers enhanced capabilities.
+
+These technologies come together to create a seamless and visually appealing user experience in the Speech Recognition App.
+
+
