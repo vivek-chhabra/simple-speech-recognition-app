@@ -1,4 +1,4 @@
-import "./helpers.css";
+import "./helpers.scss";
 
 function randNum(max, min = 0) {
     let rand = Math.floor(Math.random() * (max + 1 - min)) + min;
